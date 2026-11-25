@@ -6,7 +6,7 @@
 
 ## Etap 1: Przed dniem rozpoczęcia pracy
 - [ ] Zebrać **Kwestionariusz osobowy kandydata** oraz kopie dokumentów potwierdzających kwalifikacje, wykształcenie i staż pracy (świadectwa pracy do ustalenia wymiaru urlopu i dodatku stażowego).
-- [ ] Sprawdzić wymagane uprawnienia dla stanowiska w ZGK (np. prawo jazdy kat. B/C/CE, kwalifikacja kierowcy, UDT, SEP, książeczka sanepidowska jeśli dotyczy).
+- [ ] Sprawdzić wymagane uprawnienia dla stanowiska w ZGK (np. prawo jazdy kat. B/C/CE, kwalifikacja kierowcy, UDT, SEP, zaświadczenie lekarskie do celów sanitarno-epidemiologicznych — dawniej tzw. książeczka sanepidowska — jeśli dotyczy).
 - [ ] Wystawić **Skierowanie na wstępne badania lekarskie** (w 2 egzemplarzach) wraz z wykazem czynników szkodliwych i uciążliwych (np. praca na wysokości, w wykopach, obsługa maszyn, prowadzenie pojazdów, monitor ekranowy).
 - [ ] Odebrać **orzeczenie lekarskie** o braku przeciwwskazań do pracy **przed dopuszczeniem do pracy**.
 - [ ] W przypadku kierowców / operatorów maszyn — zapewnić wykonanie badań psychologicznych (psychotestów), jeśli wymagane.

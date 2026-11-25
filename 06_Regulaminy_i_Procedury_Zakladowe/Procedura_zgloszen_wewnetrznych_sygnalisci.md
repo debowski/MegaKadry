@@ -1,7 +1,7 @@
 # Procedura zgłoszeń wewnętrznych i ochrony sygnalistów (szkielet dla ZGK)
 
 *Podstawa prawna: Ustawa z dnia 14 czerwca 2024 r. o ochronie sygnalistów*  
-*Uwaga: Obowiązkowa dla podmiotów prawnych, na rzecz których wykonuje pracę zarobkową co najmniej **50 osób** (według stanu na 1 stycznia lub 1 lipca danego roku). Próg ten nie dotyczy podmiotów wykonujących działalność w zakresie usług, produktów i rynków finansowych oraz przeciwdziałania praniu pieniędzy — jednak większość ZGK zatrudnia powyżej 50 osób lub stanowi jednostkę gminy.*
+*Uwaga: Obowiązek ustanowienia procedury spoczywa na podmiocie prawnym, na rzecz którego co najmniej **50 osób** wykonuje pracę zarobkową (stan na 1 stycznia lub 1 lipca danego roku). W przypadku podmiotów prawnych będących jednostkami samorządu terytorialnego obowiązki te **wykonują ich jednostki organizacyjne** (art. 23 ust. 4 ustawy) — dotyczy to również ZGK jako jednostki gminy, mimo że sam zakład nie ma osobowości prawnej. Zwolnienie z art. 23 ust. 5 dotyczy jednostek organizacyjnych gmin/powiatów liczących mniej niż 10 000 mieszkańców (Orzesze przekracza ten próg). Próg 50 osób nie dotyczy podmiotów wykonujących działalność w zakresie usług, produktów i rynków finansowych oraz przeciwdziałania praniu pieniędzy, bezpieczeństwa transportu i ochrony środowiska, o których mowa w załączniku do dyrektywy 2019/1937.*
 
 ---
 

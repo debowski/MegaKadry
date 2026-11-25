@@ -30,7 +30,7 @@ Działając na podstawie art. 29 § 3 ustawy z dnia 26 czerwca 1974 r. – Kodek
 7. **Zasady dotyczące przemieszczania się między miejscami wykonywania pracy** *(jeśli wskazano kilka miejsc)*:  
    - `[np. Przemieszczanie się pomiędzy siedzibą ZGK a terenem prowadzonych prac na obszarze gminy odbywa się pojazdami służbowymi w czasie pracy]`.
 8. **Inne niż określone w umowie o pracę przysługujące składniki wynagrodzenia oraz świadczenia pieniężne lub rzeczowe:**  
-   - Nagroda jubileuszowa, jednorazowa odprawa emerytalna/rentowa, dodatkowe wynagrodzenie roczne („trzynastka” – jeśli zakład budżetowy ją wypłaca na zasadach ustawowych), świadczenia z ZFŚS, posiłki profilaktyczne/napoje w warunkach uciążliwych, ekwiwalent za pranie odzieży roboczej (zgodnie z obowiązującymi u Pracodawcy regulaminami).
+   - Nagroda jubileuszowa, jednorazowa odprawa emerytalna/rentowa, dodatkowe wynagrodzenie roczne („trzynastka” — pracownikom samorządowego zakładu budżetowego przysługuje na zasadach ustawy z dnia 12 grudnia 1997 r.; tekst jednolity: Dz.U. z 2025 r. poz. 560), świadczenia z ZFŚS, posiłki profilaktyczne/napoje w warunkach uciążliwych, ekwiwalent za pranie odzieży roboczej (zgodnie z obowiązującymi u Pracodawcy regulaminami).
 9. **Wymiar przysługującego urlopu wypoczynkowego:**  
    - Wymiar urlopu wynosi **20 dni** (przy stażu pracy krótszym niż 10 lat) albo **26 dni** (przy stażu pracy co najmniej 10 lat) w roku kalendarzowym, ustalany proporcjonalnie do okresu zatrudnienia i wymiaru etatu.
 10. **Obowiązujące zasady rozwiązania stosunku pracy (w tym wymogi formalne, długość okresów wypowiedzenia, termin odwołania do sądu pracy):**  

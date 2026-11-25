@@ -4,10 +4,13 @@ Kompletny zestaw wzorów dokumentów, list kontrolnych (checklist), rejestrów o
 
 Dokumentacja została opracowana z uwzględnieniem przepisów obowiązujących w Polsce, w tym specyfiki zatrudnienia w jednostkach samorządowych oraz pracy terenowej i technicznej (kierowcy, konserwatorzy, pracownicy wod-kan, oczyszczania i zieleni).
 
+Dla dokumentów przeznaczonych dla **Zakładu Gospodarki Komunalnej i Mieszkaniowej w Orzeszu** dane identyfikacyjne pracodawcy oraz aktualny przedmiot działania (wg statutu z 2025 r.) znajdują się w pliku **[`00_Dane_pracodawcy_ZGKiM_Orzesze.md`](00_Dane_pracodawcy_ZGKiM_Orzesze.md)**.
+
 ---
 
 ## Struktura katalogów
 
+0. **`00_Dane_pracodawcy_ZGKiM_Orzesze.md`** — dane do uzupełnienia wzorów (nazwa, adres, Dyrektor) oraz poprawiony przedmiot działania ZGKiM w Orzeszu wg obowiązującego statutu.
 1. **`01_Akta_Osobowe/`** — Kompletny podział akt osobowych na części **A, B, C, D, E** (zgodnie z Rozporządzeniem MRPiPS z dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej wraz z późniejszymi zmianami) oraz wzory podstawowych dokumentów do każdej z części.
 2. **`02_Rekrutacja_i_Zatrudnienie_Samorzadowe/`** — Dokumenty właściwe dla pracodawców samorządowych (nabór na wolne stanowiska urzędnicze, protokół z naboru, ślubowanie, służba przygotowawcza, checklista wdrożenia).
 3. **`03_Czas_Pracy_i_Urlopy/`** — Zasady i szablon ewidencji czasu pracy, wnioski o urlopy i zwolnienia od pracy (w tym siła wyższa, urlop opiekuńczy, opieka nad dzieckiem), polecenie pracy w godzinach nadliczbowych i pełnienia dyżuru (istotne przy awariach komunalnych), plan urlopów.
@@ -22,7 +25,7 @@ Dokumentacja została opracowana z uwzględnieniem przepisów obowiązujących w
 
 - **Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy** (z uwzględnieniem nowelizacji dotyczących m.in. przejrzystych warunków zatrudnienia, pracy zdalnej, kontroli trzeźwości, urlopów opiekuńczych i zwolnień z powodu siły wyższej).
 - **Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych** (wraz z **Rozporządzeniem Rady Ministrów z dnia 25 października 2021 r. w sprawie wynagradzania pracowników samorządowych** z późniejszymi zmianami).
-- **Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej** (struktura akt osobowych A–E, ewidencja czasu pracy, okresy przechowywania).
+- **Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej** (tekst jednolity: Dz.U. z 2026 r. poz. 474; struktura akt osobowych A–E, ewidencja czasu pracy, okresy przechowywania).
 - **Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO)** oraz **Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych**.
 - **Ustawa z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych** (obowiązkowy ZFŚS dla jednostek i zakładów budżetowych).
 - **Ustawa z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (PPK)**.

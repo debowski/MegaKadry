@@ -40,4 +40,4 @@ Przysługuje w wysokości:
 - **Premia / nagroda** — za szczególne osiągnięcia w pracy zawodowej (art. 36 ust. 6 ustawy).
 
 ## 6. Dodatkowe wynagrodzenie roczne („trzynastka”)
-- Pracownicy samorządowych zakładów budżetowych są objęci **Ustawą z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej** (8,5% sumy wynagrodzenia za pracę otrzymanego w ciągu roku kalendarzowego; warunek przepracowania co najmniej 6 miesięcy w danym roku, z ustawowymi wyjątkami; wypłata do **31 marca** roku następnego).
+- Pracownicy samorządowych zakładów budżetowych są objęci **Ustawą z dnia 12 grudnia 1997 r. o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej** (art. 1 ust. 2 pkt 3; tekst jednolity: **Dz.U. z 2025 r. poz. 560**): 8,5% sumy wynagrodzenia za pracę otrzymanego w ciągu roku kalendarzowego; warunek przepracowania co najmniej 6 miesięcy w danym roku, z ustawowymi wyjątkami; wypłata do **31 marca** roku następnego (art. 5 ust. 2 ustawy).

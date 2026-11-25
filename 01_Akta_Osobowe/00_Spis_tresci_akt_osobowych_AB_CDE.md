@@ -1,6 +1,6 @@
 # Spis treści i zasady prowadzenia akt osobowych (Części A–E)
 
-Podstawa prawna: **Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej** (wraz ze zmianami wprowadzonymi w 2023 r. dodającymi część E).
+Podstawa prawna: **Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej** — obowiązujący tekst jednolity: **Dz.U. z 2026 r. poz. 474** (zmiany z 2023 r. dodały część E oraz dokumenty pracy zdalnej, zmiana z 2025 r. dodała dokumenty dotyczące uzupełniającego urlopu macierzyńskiego).
 
 ---
 
@@ -40,6 +40,7 @@ Podstawa prawna: **Rozporządzenie Ministra Rodziny, Pracy i Polityki Społeczne
 - Dokumenty dotyczące powierzenia mienia z obowiązkiem zwrotu lub wyliczenia się (np. samochód służbowy, narzędzia, sprzęt IT).
 - Dokumenty dotyczące przyznania nagród i wyróżnień, awansów, dodatków specjalnych, nagród jubileuszowych.
 - Wnioski i zgody dotyczące czasu pracy i uprawnień rodzicielskich (np. zgoda na pracę w godzinach nadliczbowych / w porze nocnej / delegacje rodzica dziecka do lat 8, wniosek o obniżenie wymiaru czasu pracy, urlop wychowawczy/rodzicielski, praca zdalna).
+- Dokumenty związane z ubieganiem się i korzystaniem przez pracownika z **uzupełniającego urlopu macierzyńskiego** (Dz.U. z 2025 r. poz. 335).
 - Upoważnienia do przetwarzania danych osobowych (jeśli pracownik przetwarza dane na swoim stanowisku).
 
 ### Część C — Dokumenty związane z ustaniem zatrudnienia
