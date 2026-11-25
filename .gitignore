@@ -1,0 +1,49 @@
+# Pliki systemowe i edytorskie
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.tmp
+*.bak
+
+# Python (skrypt kontroli jakości w 11_Aktualizacje_i_Zrodla)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Pliki konfiguracyjne lokalnego środowiska – mogą zawierać dane dostępowe
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Dane robocze i poufne – NIE mają trafić do repozytorium.
+# Wzory w 12_Wzory_Dokumentow zawierają wyłącznie pola w nawiasach kwadratowych.
+*dane_osobowe*
+*akta_osobowe_*
+*lista_plac*
+*wynagrodzenia_*_pracownicy*
+*płace_*
+*plac_*_202*
+*umowa_podpisana*
+*podpisane/*
+*do_podpisu/*
+*archiwum_robocze/*
+*robocze/*
+*kopia_zapisu*
+
+# Pliki eksportowane z systemów kadrowo-płacowych (mogą zawierać dane realne)
+*PUE_ZUS*
+*raport_ZUS*
+*RIA_*
+*zestawienie_naliczen*
+*eksport_kadrowy*
+
+# Uwaga: celowo NIE ignorujemy katalogu 12_Wzory_Dokumentow ani rozszerzeń
+# .docx/.xlsx/.pdf – tam znajdują się przeznaczone do publikacji wzory.

@@ -1,0 +1,18 @@
+# Wynagrodzenia i świadczenia
+
+Instrukcje ustalania uprawnień pracowniczych oraz zasady przekazywania danych do działu płac.
+
+Status: **ROBOCZY / DO WERYFIKACJI** · Data weryfikacji: **2026-11-25**
+
+| Dokument | Kiedy użyć |
+| --- | --- |
+| [`Zasady_wynagradzania_w_ZGK_dodatek_stazowy_nagroda_jubileuszowa.md`](Zasady_wynagradzania_w_ZGK_dodatek_stazowy_nagroda_jubileuszowa.md) | Stawki ustawowe dodatku stażowego, nagrody jubileuszowej i odprawy |
+| [`Instrukcja_stazu_i_dodatku_stazowego.md`](Instrukcja_stazu_i_dodatku_stazowego.md) | Jak liczyć staż i od kiedy wypłacać dodatek |
+| [`Instrukcja_obslugi_ZFSS.md`](Instrukcja_obslugi_ZFSS.md) | ZFŚS — kryterium socjalne, terminy 31 maja, 30 września i 31 grudnia |
+| [`Wniosek_o_swiadczenie_z_ZFSS.md`](Wniosek_o_swiadczenie_z_ZFSS.md) | Wzór wniosku pracownika |
+| [`Instrukcja_obslugi_PPK.md`](Instrukcja_obslugi_PPK.md) i [`Informacja_PPK_i_deklaracja_rezygnacji.md`](Informacja_PPK_i_deklaracja_rezygnacji.md) | PPK — zapisy, rezygnacje, autozapis, wpłaty |
+| [`Procedura_przekazywania_danych_do_plac.md`](Procedura_przekazywania_danych_do_plac.md) | Co kadry przekazują do płac i kiedy |
+
+**Rozdzielenie ról:** kadry ustalają prawo do świadczenia i przekazują dane; dział płac nalicza i wypłaca. Własne zasady wynagradzania ZGK (regulamin, tabela zaszeregowania) nie zostały potwierdzone — oznacz jako **DO UZUPEŁNIENIA PRZEZ PRACODAWCĘ**.
+
+Kalkulator: [`../12_Wzory_Dokumentow/XLSX/Kalkulator_swiadczen.xlsx`](../12_Wzory_Dokumentow/XLSX/Kalkulator_swiadczen.xlsx).

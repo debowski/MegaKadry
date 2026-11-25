@@ -32,12 +32,15 @@ Kandydatem może być osoba, która:
 - `[Zadanie 2]`
 - `[Zadanie 3]`
 
-## 5. Informacja o warunkach pracy na stanowisku
+## 5. Informacja o warunkach pracy na stanowisku *(art. 13 ust. 2 pkt 4a ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych)*
 - Miejsce pracy: `[siedziba ZGK, budynek dostosowany / niedostosowany do potrzeb osób z niepełnosprawnościami – opisać dostępność architektoniczną]`.
 - Praca przy monitorze ekranowym powyżej 4 godzin dziennie / ewentualne wyjazdy służbowe na teren gminy.
+- Źródło przepisu: https://api.sejm.gov.pl/eli/acts/DU/2024/1135/text.html (Sejm). Data weryfikacji: 2026-11-25. Status: ROBOCZY.
 
 ## 6. Wskaźnik zatrudnienia osób niepełnosprawnych
-W miesiącu poprzedzającym datę upublicznienia ogłoszenia wskaźnik zatrudnienia osób niepełnosprawnych w `[Nazwa ZGK]`, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, **wynosił co najmniej 6% / był niższy niż 6%** *(art. 13 ust. 2 pkt 4a ustawy — jeśli < 6%, pierwszeństwo w zatrudnieniu przysługuje osobie niepełnosprawnej, o ile znajdzie się w gronie 5 najlepszych kandydatów)*.
+W miesiącu poprzedzającym datę upublicznienia ogłoszenia wskaźnik zatrudnienia osób niepełnosprawnych w `[Nazwa ZGK]`, w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, **wynosił co najmniej 6% / był niższy niż 6%** *(art. 13 ust. 2 pkt 4b ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych; termin składania dokumentów min. 10 dni — art. 13 ust. 3)*. Jeśli wskaźnik był niższy niż 6%, pierwszeństwo w zatrudnieniu przysługuje osobie niepełnosprawnej, o ile znajdzie się w gronie nie więcej niż 5 najlepszych kandydatów (art. 13a § 1 ustawy) — **pierwszeństwo to nie przysługuje przy naborze na kierownicze stanowisko urzędnicze** (art. 13a § 2 ustawy). Kandydat korzystający z pierwszeństwa składa kopię dokumentu potwierdzającego niepełnosprawność (art. 13 ust. 2b ustawy).
+
+*Źródło: https://api.sejm.gov.pl/eli/acts/DU/2024/1135/text.html (Sejm). Data weryfikacji: 2026-11-25. Status: ROBOCZY.*
 
 ## 7. Wymagane dokumenty aplikacyjne
 1. List motywacyjny oraz życiorys (CV).

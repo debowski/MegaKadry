@@ -21,7 +21,9 @@
 - [ ] Zapoznać pracownika z **oceną ryzyka zawodowego**, Regulaminem pracy, Regulaminem wynagradzania, zasadami RODO, równym traktowaniem i procedurą dla sygnalistów — odebrać podpisane **Oświadczenie**.
 - [ ] Zebrać **Kwestionariusz osobowy pracownika** (PESEL, adres, nr konta, dane do zgłoszenia członków rodziny do ZUS, kontakt alarmowy).
 - [ ] Wydać **odzież roboczą, obuwie i ŚOI** zgodnie z tabelą norm przydziału — odnotować w **Karcie ewidencji odzieży roboczej i ŚOI**.
-- [ ] Jeśli to pierwsza praca na stanowisku urzędniczym: odebrać **Ślubowanie** oraz rozważyć skierowanie na **służbę przygotowawczą**.
+- [ ] **Stanowisko urzędnicze — ślubowanie i służba przygotowawcza (art. 18 § 1, art. 16 § 2–3 i art. 19 ustawy z 21.11.2008 r. o pracownikach samorządowych; źródło: https://api.sejm.gov.pl/eli/acts/DU/2024/1135/text.html; data weryfikacji: 2026-11-25; status: ROBOCZY):**
+  - [ ] **Osoba niepodejmująca pracy urzędniczej po raz pierwszy:** odebrać **Ślubowanie** przed przystąpieniem do obowiązków służbowych (art. 18 § 1 ustawy).
+  - [ ] **Osoba podejmująca pracę urzędniczą po raz pierwszy:** służba przygotowawcza jest **obowiązkowa** (art. 19 § 1 ustawy; zwolnienie tylko na umotywowany wniosek w trybie art. 19 § 5) — wydać skierowanie na służbę przygotowawczą; umowa o pracę jest zawarta **na czas określony nie dłuższy niż 6 miesięcy** (art. 16 § 2 ustawy). **Ślubowanie odebrać dopiero po pozytywnym wyniku egzaminu kończącego służbę przygotowawczą i przed zawarciem nowej umowy o pracę** (art. 19 § 9 ustawy) — nie w pierwszym dniu pracy.
 - [ ] Wpisać pracownika na listę obecności / wydać kartę RCP oraz założyć **teczkę akt osobowych (części A, B, C, D, E)**.
 
 ## Etap 3: Do 7 dni od dopuszczenia do pracy

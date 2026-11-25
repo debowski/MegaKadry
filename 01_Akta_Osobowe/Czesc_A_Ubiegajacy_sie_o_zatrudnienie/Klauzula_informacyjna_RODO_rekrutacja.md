@@ -21,3 +21,21 @@
    Przysługuje Pani/Panu prawo dostępu do treści swoich danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, prawo do cofnięcia zgody w dowolnym momencie (bez wpływu na zgodność z prawem przetwarzania przed jej cofnięciem) oraz prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych (ul. Stawki 2, 00-193 Warszawa).
 7. **Dobrowolność podania danych:**  
    Podanie danych określonych w art. 22¹ § 1 KP jest wymogiem ustawowym i jest niezbędne do udziału w rekrutacji. Podanie danych wykraczających poza ten zakres jest dobrowolne.
+
+8. **Zautomatyzowane podejmowanie decyzji (art. 13 ust. 2 lit. f RODO):**  
+   Informujemy, że w procesie rekrutacji **nie są podejmowane decyzje w sposób wyłącznie zautomatyzowany**, w tym profilowanie, które wywoływałyby skutki prawne lub w podobny sposób istotnie wpływałyby na Pani/Pana sytuację — **[DO UZUPEŁNIENIA PRZEZ PRACODAWCĘ: potwierdzić, czy powyższe zdanie jest prawdziwe; jeśli decyzje są zautomatyzowane, wpisać fakt, istotne informacje o logice stosowanej przez Administratora oraz znaczenie i przewidywane skutki takiego przetwarzania dla osoby, której dane dotyczą — zgodnie z art. 13 ust. 2 lit. f RODO oraz art. 22 RODO]**. W przypadku naboru na stanowisko urzędnicze decyzję o wyborze kandydata podejmuje komisja rekrutacyjna / Dyrektor na podstawie ustawy o pracownikach samorządowych — potwierdzenie składu i trybu: **DO UZUPEŁNIENIA PRZEZ PRACODAWCĘ**.
+
+---
+
+**Podstawa prawna i metryka:** Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. (RODO), art. 13 ust. 1 i 2, w szczególności art. 13 ust. 2 lit. f (informacje o zautomatyzowanym podejmowaniu decyzji) oraz art. 22: https://eur-lex.europa.eu/eli/reg/2016/679/oj. Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy, art. 22¹ § 1: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240166. Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych: https://isap.sejm.gov.pl/.
+
+| Metryka | Wartość |
+| --- | --- |
+| Wersja | 1.1 |
+| Data opracowania | 2026-11-25 (wersja początkowa) |
+| Data ostatniej weryfikacji | 2026-11-25 |
+| Osoba/rola odpowiedzialna | Inspektor Ochrony Danych / Specjalista ds. kadr — obsada DO UZUPEŁNIENIA PRZEZ PRACODAWCĘ |
+| Status | ROBOCZY / DO WERYFIKACJI — dane Administratora, IOD, zakres automatyzacji i tryb naboru DO UZUPEŁNIENIA PRZEZ PRACODAWCĘ |
+| Historia zmian | 2026-11-25 (v1.0) — wersja początkowa; 2026-11-25 (v1.1) — dodano punkt 8 z informacją o zautomatyzowanym podejmowaniu decyzji (art. 13 ust. 2 lit. f RODO) z placeholderem do potwierdzenia oraz metrykę. |
+
+**Data weryfikacji: 2026-11-25.** Status: **ROBOCZY / DO WERYFIKACJI**.

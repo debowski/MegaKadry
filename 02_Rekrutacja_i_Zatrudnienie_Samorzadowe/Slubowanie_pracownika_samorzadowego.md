@@ -1,7 +1,9 @@
 # Akt ślubowania pracownika samorządowego
 
-*Podstawa prawna: art. 18 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych*  
-*Dotyczy osób podejmujących po raz pierwszy zatrudnienie na stanowisku urzędniczym (w tym kierowniczym stanowisku urzędniczym) — przed przystąpieniem do wykonywania obowiązków służbowych.*
+*Podstawa prawna: **art. 18 § 1** ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych (t.j. Dz.U. z 2024 r. poz. 1135). Źródło: https://api.sejm.gov.pl/eli/acts/DU/2024/1135/text.html (Sejm). Data weryfikacji: 2026-11-25. Status: ROBOCZY.*  
+*Dotyczy **każdego pracownika samorządowego zatrudnionego na stanowisku urzędniczym, w tym na kierowniczym stanowisku urzędniczym** — nie tylko osób podejmujących taką pracę po raz pierwszy. Ślubowanie składa się przed przystąpieniem do wykonywania obowiązków służbowych.*
+
+> **Uwaga — osoba podejmująca po raz pierwszy pracę na stanowisku urzędniczym:** zgodnie z art. 16 § 2–3 ustawy o pracownikach samorządowych zawiera się z nią umowę na czas określony **nie dłuższy niż 6 miesięcy** i organizuje służbę przygotowawczą (art. 19 § 1). W tym przypadku ślubowanie składa się **po uzyskaniu pozytywnego wyniku egzaminu kończącego służbę przygotowawczą, przed zawarciem nowej umowy o pracę** (art. 19 § 9 ustawy). Pozostałe osoby składają ślubowanie przed rozpoczęciem obowiązków służbowych (art. 18 § 1). Źródło: https://api.sejm.gov.pl/eli/acts/DU/2024/1135/text.html . Data weryfikacji: 2026-11-25. Status: ROBOCZY.
 
 ---
 

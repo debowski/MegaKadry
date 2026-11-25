@@ -19,7 +19,7 @@
 2. **Uzasadnienie (szczególne potrzeby pracodawcy / konieczność usunięcia awarii):**  
    `[np. Konieczność usunięcia awarii magistrali wodociągowej przy ul. ... / Zapewnienie gotowości do akcji zimowej (odśnieżanie dróg gminnych)]`.
 3. **Forma rekompensaty** *(zgodnie z wyborem pracownika / art. 42 ust. 4 ustawy o pracownikach samorządowych)*:
-   - Dla pracowników samorządowych: wynagrodzenie (bez dodatków 50%/100% — chyba że regulamin lub wykładnia dla stanowisk pomocniczych/obsługi stanowi korzystniej) albo czas wolny w tym samym wymiarze.
+   - Dla **wszystkich pracowników samorządowych** (nie tylko stanowisk pomocniczych i obsługi): według wyboru pracownika **wynagrodzenie albo czas wolny w tym samym wymiarze** (art. 42 ust. 4 ustawy o pracownikach samorządowych; [ISAP — Dz.U. 2008 nr 223 poz. 1458](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231458), Data weryfikacji: 2026-11-25, status: DO WERYFIKACJI). Dodatki 50%/100% nie są naliczane w tym trybie; w razie wątpliwości interpretacyjnych potwierdź praktykę u pracodawcy / obsługi prawnej.
    - Wniosek pracownika o czas wolny w zamian za nadgodziny: `[ ]` Złożono / `[ ]` Wypłata wynagrodzenia.
 
 ....................................................  
