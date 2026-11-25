@@ -1,5 +1,7 @@
 # Plan urlopów wypoczynkowych na rok `[RRRR]`
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 163 Kodeksu pracy*  
 *Uwaga: Plan urlopów ustala pracodawca, biorąc pod uwagę wnioski pracowników i konieczność zapewnienia normalnego toku pracy zakładu. Planem nie obejmuje się 4 dni urlopu na żądanie (art. 167² KP). Plan urlopów podaje się do wiadomości pracowników w sposób przyjęty u pracodawcy (np. tablica ogłoszeń, intranet).*
 

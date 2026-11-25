@@ -1,5 +1,7 @@
 # Ewidencja czasu pracy — zasady i szablon (ZGK)
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 149 Kodeksu pracy oraz § 6 pkt 1 Rozporządzenia MRPiPS z dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej*  
 *Uwaga: Ewidencja czasu pracy jest prowadzona **oddzielnie dla każdego pracownika** (poza aktami osobowymi — jako odrębna dokumentacja w sprawach związanych ze stosunkiem pracy, przechowywana przez **10 lat**).*
 

@@ -1,5 +1,7 @@
 # Szkielet Regulaminu Wynagradzania Zakładu Gospodarki Komunalnej
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 39 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych oraz Rozporządzenie Rady Ministrów z dnia 25 października 2021 r. w sprawie wynagradzania pracowników samorządowych (ze zm.)*
 
 ---

@@ -14,6 +14,9 @@ Status: **ROBOCZY / DO WERYFIKACJI** · Data weryfikacji: **2026-11-25**
 | [`Procedura_dokumentacji_po_wypadku_przy_pracy.md`](Procedura_dokumentacji_po_wypadku_przy_pracy.md) | Karta wypadku, zgłoszenie do ZUS i OSP, dochodzenie |
 | [`Karta_wypadku_przy_pracy_wzor.md`](Karta_wypadku_przy_pracy_wzor.md), [`Zgloszenie_wypadku_ZUS_i_OSP_wzor.md`](Zgloszenie_wypadku_ZUS_i_OSP_wzor.md), [`Rejestr_wypadkow_przy_pracy.md`](Rejestr_wypadkow_przy_pracy.md) | Wzory do wypełnienia |
 | [`Profile_stanowisk_BHP.md`](Profile_stanowisk_BHP.md) | Jakie dokumenty i terminy sprawdzić dla kierowcy, operatora, wod-kan, zieleni, oczyszczania, konserwatora i administracji |
+| [`Matryca_stanowisk_i_uprawnien.md`](Matryca_stanowisk_i_uprawnien.md) — zwięzła matryca 14 stanowisk × 8 kryteriów. | Szybkie sprawdzenie: dokumenty, badania, UDT/SEP/prawo jazdy, szkolenia, ŚOI |
+| [`Procedura_pracy_podczas_awarii.md`](Procedura_pracy_podczas_awarii.md) | Awarie wod-kan, oczyszczalni, zima, PSZOK — pogotowie, BHP i rozliczenie nadgodzin |
+| [`Instrukcja_wspolpracy_z_BHP_i_ewidencji_odziezy.md`](Instrukcja_wspolpracy_z_BHP_i_ewidencji_odziezy.md) | Współpraca z BHP, wydawanie odzieży i ŚOI, ewidencja i pranie |
 
 Gotowe wzory: [`../12_Wzory_Dokumentow/DOCX/Skierowanie_na_badania_lekarskie.docx`](../12_Wzory_Dokumentow/DOCX/Skierowanie_na_badania_lekarskie.docx), [`../12_Wzory_Dokumentow/XLSX/Rejestr_uprawnien_i_badan.xlsx`](../12_Wzory_Dokumentow/XLSX/Rejestr_uprawnien_i_badan.xlsx).
 

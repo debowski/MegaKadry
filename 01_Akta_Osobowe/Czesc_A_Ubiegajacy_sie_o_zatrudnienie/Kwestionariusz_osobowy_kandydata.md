@@ -1,5 +1,7 @@
 # Kwestionariusz osobowy dla osoby ubiegającej się o zatrudnienie
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 22¹ § 1 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy*
 
 ---

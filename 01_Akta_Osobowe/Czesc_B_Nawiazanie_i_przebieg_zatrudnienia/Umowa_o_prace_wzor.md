@@ -1,5 +1,7 @@
 # Umowa o pracę (wzór dla ZGK)
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Zgodna z art. 29 § 1 Kodeksu pracy*
 
 ---

@@ -1,5 +1,7 @@
 # Protokół z przeprowadzonego naboru na wolne stanowisko urzędnicze
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 14 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych*
 
 ---

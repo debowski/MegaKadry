@@ -1,5 +1,7 @@
 # Skierowanie na profilaktyczne badania lekarskie
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 229 Kodeksu pracy oraz Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 30 maja 1996 r. w sprawie przeprowadzania badań lekarskich pracowników*  
 *Uwaga: Skierowanie wydaje się w **dwóch egzemplarzach** (jeden dla osoby kierowanej, drugi dla lekarza medycyny pracy).*
 

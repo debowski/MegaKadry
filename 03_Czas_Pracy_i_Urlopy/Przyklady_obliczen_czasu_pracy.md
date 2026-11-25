@@ -80,7 +80,7 @@
 | --- | --- | --- |
 | Zapłata za 8 h (wybór: wynagrodzenie) | 8 h × 37,50 zł/h | **300,00 zł brutto** |
 | Alternatywa (wybór: czas wolny) | 8 h × 1 | **8 godzin wolnych** |
-| Dodatkowy dzień wolny za niedzielę | art. 151³ Kodeksu pracy | **1 dzień wolny** — **DO WERYFIKACJI** u pracodawcy |
+| Dodatkowy dzień wolny za niedzielę | art. 151¹¹ Kodeksu pracy (dawniej art. 151³) | **1 dzień wolny** — **DO WERYFIKACJI** u pracodawcy |
 
 **Gdyby zastosowanie miał wyłącznie Kodeks pracy:**
 
@@ -160,7 +160,7 @@ Rozliczenie dla pracownika samorządowego (art. 42 ust. 4 ustawy o pracownikach 
 | Godziny podlegające rozliczeniu | 12 + 8 + 4 | 24 h |
 | Wypłata (jeśli wybrał wynagrodzenie) | 24 × 37,50 | **900,00 zł brutto** |
 | Czas wolny (jeśli wybrał czas wolny) | 24 h × 1 | **24 godziny wolne** |
-| Dodatkowy dzień wolny za niedzielę | art. 151³ Kodeksu pracy | **1 dzień** — **DO WERYFIKACJI** |
+| Dodatkowy dzień wolny za niedzielę | art. 151¹¹ Kodeksu pracy (dawniej art. 151³) | **1 dzień** — **DO WERYFIKACJI** |
 
 > **Uwaga:** powyższy wariant dla pracownika samorządowego nie uwzględnia ewentualnego dodatku nocnego — gdyby część godzin przypadała w porze nocnej, dodaj wynik z przykładu 2.
 
@@ -181,7 +181,7 @@ Rozliczenie dla pracownika samorządowego (art. 42 ust. 4 ustawy o pracownikach 
 
 | Pełna nazwa aktu | Przepis | Oficjalne źródło | Data weryfikacji | Status |
 | --- | --- | --- | --- | --- |
-| Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy | art. 151, art. 151¹, art. 151², art. 151³, art. 151⁸, art. 153 § 1, art. 154 § 1–3, art. 154², art. 167², art. 168 | [ISAP — Dz.U. 1974 nr 24 poz. 141](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141) (tekst jednolity: Dz.U. z 2026 r. poz. 1245) | 2026-11-25 | DO WERYFIKACJI |
+| Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy | art. 151, art. 151¹, art. 151², art. 151³ (dzień wolny z rozkładu), art. 151⁹–151¹² (niedziele i święta od 5.11.2026), art. 151⁸, art. 153 § 1, art. 154 § 1–3, art. 154², art. 167², art. 168 | [ISAP — Dz.U. 1974 nr 24 poz. 141](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141) (tekst jednolity: Dz.U. z 2026 r. poz. 1245) | 2026-11-25 | DO WERYFIKACJI |
 | Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych | art. 42 ust. 4 | [ISAP — Dz.U. 2008 nr 223 poz. 1458](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231458) | 2026-11-25 | DO WERYFIKACJI |
 | Rozporządzenie Rady Ministrów z dnia 11 września 2025 r. w sprawie wysokości minimalnego wynagrodzenia za pracę oraz wysokości minimalnej stawki godzinowej w 2026 r. | § 1 | [ISAP — Dz.U. 2025 poz. 1242](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001242) oraz [gov.pl](https://www.gov.pl/web/rodzina/minimalne-wynagrodzenie-za-prace) | 2026-11-25 | DO WERYFIKACJI |
 

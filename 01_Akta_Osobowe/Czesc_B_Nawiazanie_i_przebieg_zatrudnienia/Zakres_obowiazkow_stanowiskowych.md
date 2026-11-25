@@ -1,5 +1,7 @@
 # Zakres obowiązków (czynności) pracownika
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 ---
 
 **Pracodawca:** `[Nazwa Zakładu Gospodarki Komunalnej]`  

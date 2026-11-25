@@ -1,5 +1,7 @@
 # Karta szkolenia wstępnego w dziedzinie bezpieczeństwa i higieny pracy
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: Rozporządzenie Ministra Gospodarki i Pracy z dnia 27 lipca 2004 r. w sprawie szkolenia w dziedzinie bezpieczeństwa i higieny pracy*  
 *Uwaga: Szkolenie wstępne (instruktaż ogólny + instruktaż stanowiskowy) musi odbyć się **przed dopuszczeniem pracownika do pracy**. Podpisaną kartę przechowuje się w **części B** akt osobowych.*
 

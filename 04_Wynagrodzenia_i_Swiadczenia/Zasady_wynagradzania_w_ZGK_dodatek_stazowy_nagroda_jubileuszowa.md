@@ -1,5 +1,7 @@
 # Kompendium wynagrodzeń i świadczeń w ZGK (pracodawca samorządowy)
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych (art. 36–39) oraz Rozporządzenie Rady Ministrów z dnia 25 października 2021 r. w sprawie wynagradzania pracowników samorządowych (wraz z późniejszymi nowelizacjami)*
 
 ---

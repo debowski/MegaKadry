@@ -1,5 +1,7 @@
 # Wniosek o urlop / zwolnienie od pracy
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 ---
 
 `[Miejscowość, data]`

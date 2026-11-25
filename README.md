@@ -4,6 +4,8 @@ Praktyczny zestaw instrukcji, procedur, checklist i wzorów dokumentów dla osob
 
 Celem projektu jest to, żeby nowy pracownik mógł **samodzielnie wykonać typowe zadanie kadrowe**: od zatrudnienia człowieka, przez prowadzenie akt osobowych i rozliczanie czasu pracy, aż po zakończenie zatrudnienia i kontrolę dokumentacji — bez zgadywania, który wzór zastosować i jaki obowiązuje termin.
 
+Pełny, automatycznie generowany spis wszystkich dokumentów: **[`INDEKS_DOKUMENTACJI.md`](INDEKS_DOKUMENTACJI.md)**. Dane identyfikacyjne zakładu i przedmiot działania wg statutu z 2025 r.: **[`00_Dane_pracodawcy_ZGKiM_Orzesze.md`](00_Dane_pracodawcy_ZGKiM_Orzesze.md)**.
+
 ---
 
 ## 1. Dla kogo jest ta dokumentacja
@@ -18,7 +20,7 @@ Nie musisz znać Markdown ani struktury repozytorium. Zacznij od folderu [`00_St
 
 ## 2. Jak zacząć — 5 kroków
 
-1. Otwórz **[`Instrukcję dla nowego kadrowca`](00_Start/Instrukcja_dla_nowego_kadrowca.md)** — dowiesz się, jaka jest Twoja rola i jak korzystać z dokumentacji.
+1. Otwórz **[`Podręcznik kadrowca`](00_Start/Podrecznik_kadrowca.md)** — jedno miejsce, które prowadzi do wszystkich instrukcji; stamtąd przejdiesz do **[`Instrukcji dla nowego kadrowca`](00_Start/Instrukcja_dla_nowego_kadrowca.md)** i **[`Matrycy odpowiedzialności`](00_Start/Matryca_odpowiedzialnosci.md)**.
 2. Zobacz **[`Mapę obowiązków kadrowych`](00_Start/Mapa_obowiazkow_kadrowych.md)** — procesy i miejsca, w których są opisane.
 3. Wybierz zadanie z **[`Najczęstszych zadań`](00_Start/Najczestsze_zadania.md)** — znajdziesz krótką instrukcję krok po kroku.
 4. Uzupełnij dane pracodawcy i organizacji w **[`Konfiguracji ZGK Orzesze`](00_Start/Konfiguracja_ZGK_Orzesze.md)** oraz sprawdź **[`dane potwierdzone ze statutu`](00_Dane_pracodawcy_ZGKiM_Orzesze.md)**.

@@ -8,7 +8,9 @@ Dane identyfikacyjne pracodawcy (nazwa, adres, Dyrektor, statut) są zweryfikowa
 
 | Plik | Kiedy go użyć |
 | --- | --- |
+| [Podręcznik kadrowca](Podrecznik_kadrowca.md) | Jednolity punkt wejścia — prowadzi do wszystkich instrukcji i podpowiada, co otworzyć w konkretnej sytuacji. |
 | [Instrukcja dla nowego kadrowca](Instrukcja_dla_nowego_kadrowca.md) | Pierwszego dnia pracy: rola, obowiązki, struktura repozytorium, zasady współpracy i ochrony danych. |
+| [Matryca odpowiedzialności](Matryca_odpowiedzialnosci.md) | Kto wykonuje, kto zatwierdza, kto jest konsultowany i informowany (RACI). |
 | [Mapa obowiązków kadrowych](Mapa_obowiazkow_kadrowych.md) | Gdy chcesz zobaczyć cały proces od zatrudnienia do zakończenia pracy i wiedzieć, gdzie szukać dokumentów. |
 | [Najczęstsze zadania](Najczestsze_zadania.md) | Gdy masz konkretne zadanie „na już" i potrzebujesz krótkiej instrukcji krok po kroku. |
 | [Kontakty i odpowiedzialności](Kontakty_i_odpowiedzialnosci.md) | Gdy nie wiesz, do kogo zwrócić się w sprawie umowy, płacy, badań, RODO lub zgody Dyrektora. Tabela do uzupełnienia przez pracodawcę. |

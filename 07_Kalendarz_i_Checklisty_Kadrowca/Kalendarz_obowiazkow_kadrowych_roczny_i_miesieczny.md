@@ -1,5 +1,7 @@
 # Kalendarz obowiązków kadrowo-płacowych w ZGK (miesięczny i roczny)
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Uwaga: Jeżeli termin ustawowy przypada na sobotę lub dzień ustawowo wolny od pracy, w przypadku zobowiązań podatkowych, ZUS i PFRON termin przesuwa się co do zasady na następny dzień roboczy (art. 12 § 5 Ordynacji podatkowej / odpowiednie przepisy).*
 
 ---

@@ -1,5 +1,7 @@
 # Protokół z przeprowadzenia kontroli trzeźwości pracownika (Część E akt osobowych)
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 22¹c – 22¹f Kodeksu pracy*  
 **Ważne:** Dokument ten trafia do **części E akt osobowych wyłącznie wtedy, gdy badanie wykazało obecność alkoholu (stan po użyciu alkoholu ≥ 0,2 ‰ albo stan nietrzeźwości > 0,5 ‰) lub środka działającego podobnie do alkoholu**. Jeżeli wynik wynosi 0,00 mg/l (brak alkoholu), nie przechowuje się go w części E!  
 **Okres przechowywania w części E:** maksymalnie **1 rok** od dnia zebrania informacji (po tym terminie dokument usuwa się z akt osobowych).

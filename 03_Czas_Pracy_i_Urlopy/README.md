@@ -13,6 +13,9 @@ Status: **ROBOCZY / DO WERYFIKACJI** · Data weryfikacji: **2026-11-25**
 | [`Instrukcja_ustalania_wymiaru_urlopu.md`](Instrukcja_ustalania_wymiaru_urlopu.md) | 20/26 dni, urlop proporcjonalny, urlop na żądanie, zaległy do 30 września |
 | [`Wniosek_o_urlop_wypoczynkowy_i_inne_zwolnienia.md`](Wniosek_o_urlop_wypoczynkowy_i_inne_zwolnienia.md) i [`Plan_urlopow_wzor.md`](Plan_urlopow_wzor.md) | Wniosek pracownika i plan urlopów |
 | [`Przyklady_obliczen_czasu_pracy.md`](Przyklady_obliczen_czasu_pracy.md) | Sprawdzone przykłady liczbowe |
+| [`Przyklady_ewidencji_czasu_pracy.md`](Przyklady_ewidencji_czasu_pracy.md) | Pełne przykłady ewidencji: administracja, praca terenowa, zmiany 12-godzinne |
+| [`Procedura_rozliczania_pracy_w_niedziele_i_swieta.md`](Procedura_rozliczania_pracy_w_niedziele_i_swieta.md) | Aktualna numeracja art. 151⁹–151¹² KP (od 5.11.2026), dzień wolny i dodatek 100% |
+| [`Instrukcja_rozliczania_nieobecnosci.md`](Instrukcja_rozliczania_nieobecnosci.md) | Klasyfikacja nieobecności, e-ZLA i dane od płac |
 
 Arkusz do ewidencji: [`../12_Wzory_Dokumentow/XLSX/Ewidencja_czasu_pracy.xlsx`](../12_Wzory_Dokumentow/XLSX/Ewidencja_czasu_pracy.xlsx).
 

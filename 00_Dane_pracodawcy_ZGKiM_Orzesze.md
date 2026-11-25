@@ -1,5 +1,7 @@
 # Dane pracodawcy i przedmiot działania — ZGKiM w Orzeszu
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 Wzory w pozostałych folderach mają charakter uniwersalny. Poniższe dane służą do uzupełnienia pól w nawiasach kwadratowych (np. `[Nazwa ZGK]`, `[adres]`, `Dyrektor/Kierownik`) w dokumentach przeznaczonych dla konkretnego zakładu.
 
 ## 1. Dane identyfikacyjne

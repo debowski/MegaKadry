@@ -1,5 +1,7 @@
 # Karta ewidencji przydziału odzieży i obuwia roboczego oraz środków ochrony indywidualnej (ŚOI)
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 237⁶ – 237⁹ Kodeksu pracy oraz § 6 pkt 3 Rozporządzenia MRPiPS ws. dokumentacji pracowniczej*  
 *Uwaga: Prowadzi się imiennie dla każdego pracownika uprawnionego zgodnie z zakładową tabelą norm przydziału (odrębnie od akt osobowych).*
 

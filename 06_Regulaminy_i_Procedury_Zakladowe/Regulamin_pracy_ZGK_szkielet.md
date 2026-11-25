@@ -1,5 +1,7 @@
 # Szkielet Regulaminu Pracy Zakładu Gospodarki Komunalnej
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 104 – 104³ Kodeksu pracy*  
 *Uwaga: Obowiązkowy u pracodawcy zatrudniającego co najmniej **50 pracowników** (lub od 20 do 49 pracowników, jeśli zakładowa organizacja związkowa złoży wniosek o jego wprowadzenie). Regulamin pracy wchodzi w życie po upływie **2 tygodni** od dnia podania go do wiadomości pracowników.*
 

@@ -1,5 +1,7 @@
 # Karta obiegowa zwolnienia pracownika
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 ---
 
 **Imię i nazwisko pracownika:** `[................................................]`  

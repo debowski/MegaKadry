@@ -1,5 +1,7 @@
 # Skierowanie na służbę przygotowawczą i protokół z egzaminu
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 19 ustawy z dnia 21 listopada 2008 r. o pracownikach samorządowych*  
 *Dotyczy osób podejmujących po raz pierwszy pracę na stanowisku urzędniczym (które wcześniej nie były zatrudnione w jednostkach samorządowych na czas nieokreślony albo na czas określony dłuższy niż 6 miesięcy i nie odbyły służby przygotowawczej zakończonej egzaminem).*
 

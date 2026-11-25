@@ -13,6 +13,8 @@
 
 > **Szybka ścieżka:** ustal staż urlopowy → wybierz 20 albo 26 dni → skoryguj o niepełny etat lub pierwszy rok → odejmij już wykorzystane dni → wpisz do planu urlopów i karty urlopowej.
 
+> **Zmiana od 2026 r.:** nowe okresy wliczane do stażu (art. 302¹ KP) mogą zmienić wymiar urlopu z 20 na 26 dni. Tryb przeliczenia opisuje [`Procedura stażu pracy 2026`](../04_Wynagrodzenia_i_Swiadczenia/Procedura_stazu_pracy_2026.md).
+
 ---
 
 ## 1. Cel

@@ -62,7 +62,7 @@ Nie rozliczaj jako nadgodzin: samego pozostawania w gotowości bez faktycznej pr
 | Sytuacja | Pracownik samorządowy (art. 42 ust. 4 ustawy o pracownikach samorządowych) | Gdy zastosowanie ma wyłącznie Kodeks pracy |
 | --- | --- | --- |
 | Nadgodziny w dni robocze | według wyboru pracownika: **wynagrodzenie albo czas wolny w tym samym wymiarze**; dodatki 50%/100% nie są naliczane w tym trybie | dodatek **50%** wynagrodzenia za każdą godzinę albo czas wolny na wniosek (art. 151¹, 151² KP) |
-| Nadgodziny w niedzielę, święto albo dzień wolny w rozkładzie | wynagrodzenie albo czas wolny w tym samym wymiarze; dodatkowo sprawdź prawo do innego dnia wolnego za pracę w dniu wolnym (art. 151³ KP) — **DO WERYFIKACJI u pracodawcy** | dodatek **100%** albo inny dzień wolny z art. 151³ KP |
+| Nadgodziny w niedzielę, święto albo dzień wolny w rozkładzie | wynagrodzenie albo czas wolny w tym samym wymiarze; dodatkowo sprawdź prawo do innego dnia wolnego za pracę w dniu wolnym (art. 151¹¹ KP; dawniej art. 151³) — **DO WERYFIKACJI u pracodawcy** | dodatek **100%** albo inny dzień wolny z art. 151¹¹ KP |
 | Praca w porze nocnej | niezależnie od powyższego: dodatek za porę nocną wg art. 151⁸ KP, o ile pracownik faktycznie pracuje w godz. 22:00–06:00 i nie zachodzi wyjątek z art. 151⁸ § 2 | tak samo |
 | Pełnienie dyżuru bez faktycznej pracy | czas dyżuru nie jest czasem pracy; wynagrodzenie wg ustaleń zakładowych — **DO UZUPEŁNIENIA PRZEZ PRACODAWCĘ** | tak samo (art. 151⁵ KP) |
 | Wezwanie do pracy w trakcie dyżuru | godziny faktycznej pracy rozlicz jak nadgodziny według wyboru pracownika | jak w kolumnie „Kodeks pracy” |
@@ -94,7 +94,7 @@ Do teczki nadgodzin/dyżurów dołącz:
 
 ### Krok 6 — Praca w niedziele i święta oraz dyżur awaryjny
 
-1. Za pracę w niedzielę lub święto pracownikowi przysługuje co do zasady dzień wolny od pracy w zamian (art. 151¹ i 151³ Kodeksu pracy). Wpisz go jako WN/WŚ i kontroluj wykorzystanie.
+1. Za pracę w niedzielę lub święto pracownikowi przysługuje co do zasady dzień wolny od pracy w zamian (art. 151¹ oraz art. 151⁹–151¹² Kodeksu pracy, od 5.11.2026 r.; dawniej art. 151³). Wpisz go jako WN/WŚ i kontroluj wykorzystanie.
 2. W ZGKiM wpisując dyżur pogotowia wod-kan, rozróżnij:
    - **gotowość** (pracownik pozostaje pod telefonem, nie pracuje) — wpisz liczbę godzin dyżuru i miejsce;
    - **interwencję** (wyjazd, naprawa) — wpisz jako faktyczną pracę i rozlicz według wyboru pracownika.
@@ -132,7 +132,7 @@ Do teczki nadgodzin/dyżurów dołącz:
 | Zapis w ewidencji | niezwłocznie po zdarzeniu, najpóźniej przy zamknięciu miesiąca |
 | Przekazanie danych do płac | przed terminem wypłaty wynagrodzenia — **DO UZUPEŁNIENIA PRZEZ PRACODAWCĘ** |
 | Udzielenie czasu wolnego za nadgodziny | w okresie rozliczeniowym, w którym powstały; inny termin wymaga uzgodnienia z pracownikiem — **DO WERYFIKACJI** |
-| Wyrównanie za pracę w niedzielę/święto | dzień wolny w okresie rozliczeniowym lub uzgodniony termin (art. 151³ KP) |
+| Wyrównanie za pracę w niedzielę/święto | dzień wolny w okresie rozliczeniowym lub uzgodniony termin (art. 151¹¹ KP; dawniej art. 151³) |
 
 ## 9. Podstawa prawna
 
@@ -140,7 +140,7 @@ Do teczki nadgodzin/dyżurów dołącz:
 
 | Pełna nazwa aktu | Przepis | Oficjalne źródło | Data weryfikacji | Status |
 | --- | --- | --- | --- | --- |
-| Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy | art. 129, art. 151, art. 151¹, art. 151², art. 151³, art. 151⁵, art. 151⁸ | [ISAP — Dz.U. 1974 nr 24 poz. 141](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141) (tekst jednolity: Dz.U. z 2026 r. poz. 1245) | 2026-11-25 | DO WERYFIKACJI |
+| Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy | art. 129, art. 151, art. 151¹, art. 151², art. 151³ (dzień wolny z rozkładu), art. 151⁹–151¹² (niedziele i święta od 5.11.2026), art. 151⁵, art. 151⁸ | [ISAP — Dz.U. 1974 nr 24 poz. 141](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141) (tekst jednolity: Dz.U. z 2026 r. poz. 1245) | 2026-11-25 | DO WERYFIKACJI |
 | Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych | art. 42 ust. 1–4 (w tym art. 42 ust. 4 — wynagrodzenie albo czas wolny według wyboru pracownika; dotyczy wszystkich pracowników samorządowych) | [ISAP — Dz.U. 2008 nr 223 poz. 1458](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231458) (tekst jednolity: Dz.U. z 2024 r. poz. 1135) | 2026-11-25 | DO WERYFIKACJI |
 | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej | § 6 pkt 1 lit. a i pkt 1 lit. c (dokumenty związane z nadgodzinami i gotowością) | [ISAP — Dz.U. 2018 poz. 2369](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002369) | 2026-11-25 | DO WERYFIKACJI |
 | Państwowa Inspekcja Pracy — materiał o specyfice zatrudnienia w samorządach (wykładnia art. 42 ust. 4) | art. 42 ust. 4 ustawy o pracownikach samorządowych | [PIP — Specyfika zatrudnienia w samorządach](https://pip.gov.pl/en/dla-sluzb-bhp/magazyn-inspektor-pracy/artykuly/specyfika-zatrudnienia-w-samorzadach?tmpl=print) | 2026-11-25 | DO WERYFIKACJI |

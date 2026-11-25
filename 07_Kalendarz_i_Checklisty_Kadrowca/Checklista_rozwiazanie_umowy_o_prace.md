@@ -1,5 +1,7 @@
 # Checklista rozwiązania umowy o pracę (krok po kroku dla kadr ZGK)
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 ---
 
 **Pracownik:** `[Imię i nazwisko]` | **Stanowisko:** `[...]` | **Data ustania stosunku pracy:** `[...]`  

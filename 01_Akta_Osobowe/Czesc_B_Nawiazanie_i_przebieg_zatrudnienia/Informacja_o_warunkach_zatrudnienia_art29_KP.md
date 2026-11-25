@@ -1,5 +1,7 @@
 # Informacja o warunkach zatrudnienia (art. 29 § 3 Kodeksu pracy)
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Wręczana pracownikowi nie później niż w terminie **7 dni** od dnia dopuszczenia do pracy (w postaci papierowej lub elektronicznej)*
 
 ---

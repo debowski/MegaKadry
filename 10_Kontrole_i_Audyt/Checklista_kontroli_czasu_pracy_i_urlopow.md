@@ -18,7 +18,7 @@
 | 1.4 | Rozkład czasu pracy | Rozkład ustalony i podany do wiadomości pracowników; zmiany rozkładu wprowadzane z zachowaniem terminów. | Rozkład / ogłoszenie |  |  |
 | 1.5 | Podpisy / potwierdzenia | Ewidencja papierowa potwierdzona przez pracownika i osobę odpowiedzialną; ewidencja elektroniczna ma zapisany mechanizm potwierdzania. | Podpis / log |  |  |
 | 1.6 | Zamknięcie okresu | Ewidencja zamknięta po upływie okresu rozliczeniowego przed przekazaniem danych do płac. | Data zamknięcia |  |  |
-| 1.7 | Praca w dniu wolnym | W ewidencji odnotowano dzień wolny udzielony w zamian za pracę w dniu wolnym wynikającym z rozkładu (art. 151³ KP) — termin uzgodnienia z pracownikiem. | Wniosek / uzgodnienie |  |  |
+| 1.7 | Praca w dniu wolnym | W ewidencji odnotowano dzień wolny udzielony w zamian za pracę w dniu wolnym wynikającym z rozkładu (art. 151³ KP dla dnia wolnego z rozkładu; niedziele i święta — art. 151¹¹ KP od 5.11.2026 r.) — termin uzgodnienia z pracownikiem. | Wniosek / uzgodnienie |  |  |
 | 1.8 | Ewidencja dla kierowców | Dla kierowców sprawdzono dodatkowe ewidencje wynikające z odrębnych przepisów (czas jazdy, odpoczynki) — **jeśli dotyczy**. | Ewidencja kierowcy |  |  |
 
 ## 2. Nadgodziny i praca w dni wolne

@@ -1,5 +1,7 @@
 # Zawiadomienie o zastosowaniu kary porządkowej (art. 108–113 KP)
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Uwaga: Kara porządkowa nie może być zastosowana po upływie **2 tygodni** od powzięcia wiadomości o naruszeniu obowiązku pracowniczego i po upływie **3 miesięcy** od dopuszczenia się tego naruszenia. Przed nałożeniem kary pracodawca ma obowiązek **wysłuchać pracownika** (art. 109 § 2 KP).*
 
 ---

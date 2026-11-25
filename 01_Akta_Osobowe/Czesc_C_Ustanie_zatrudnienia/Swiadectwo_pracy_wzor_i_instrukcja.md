@@ -1,5 +1,7 @@
 # Świadectwo pracy — wzór i instrukcja wypełniania
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 97 Kodeksu pracy oraz Rozporządzenie MRPiPS z dnia 30 grudnia 2016 r. w sprawie świadectwa pracy*  
 **Termin wydania:** w dniu, w którym następuje ustanie stosunku pracy (chyba że wydanie w tym dniu jest niemożliwe z przyczyn obiektywnych — wówczas w ciągu **7 dni** od dnia ustania stosunku pracy).
 

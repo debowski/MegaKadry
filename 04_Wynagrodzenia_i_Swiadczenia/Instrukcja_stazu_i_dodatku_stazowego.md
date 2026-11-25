@@ -13,6 +13,8 @@
 
 > **Podział ról:** kadry ustalają **datę nabycia prawa i stawkę procentową**, dział płac **liczy kwotę i wypłaca**. Nie wpisuj kwot wynagrodzeń konkretnych pracowników do dokumentacji kadrowej ogólnodostępnej.
 
+> **Od 2026 r.** do stażu wlicza się również określone okresy aktywności zawodowej (art. 302¹ KP, ustawa z 26.09.2025 r., Dz.U. 2025 poz. 1423). Szczegółowy tryb przeliczenia opisuje [`Procedura stażu pracy 2026`](Procedura_stazu_pracy_2026.md).
+
 ---
 
 ## 1. Cel

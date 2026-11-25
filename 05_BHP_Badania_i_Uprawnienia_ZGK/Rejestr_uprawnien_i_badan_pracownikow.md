@@ -1,5 +1,7 @@
 # Rejestr ważności badań lekarskich, szkoleń BHP i uprawnień pracowników ZGK
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Narzędzie kontrolne dla specjalisty ds. kadr — zaleca się weryfikację rejestru co najmniej raz w miesiącu (np. 1. dnia miesiąca), aby wystawiać skierowania z wyprzedzeniem 30 dni.*
 
 ---

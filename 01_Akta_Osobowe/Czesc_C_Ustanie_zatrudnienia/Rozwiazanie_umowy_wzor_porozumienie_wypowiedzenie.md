@@ -1,5 +1,7 @@
 # Wzory dokumentów rozwiązania umowy o pracę
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 ---
 
 ## Wariant 1: Rozwiązanie umowy o pracę na mocy porozumienia stron (art. 30 § 1 pkt 1 KP)

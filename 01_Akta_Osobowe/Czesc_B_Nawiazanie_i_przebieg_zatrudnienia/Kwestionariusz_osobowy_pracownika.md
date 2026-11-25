@@ -1,5 +1,7 @@
 # Kwestionariusz osobowy dla pracownika
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 *Podstawa prawna: art. 22¹ § 3 i § 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy*
 
 ---

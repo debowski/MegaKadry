@@ -102,7 +102,7 @@ Szczegółowa legenda kodów jest w pliku [`Ewidencja_czasu_pracy_szablon_i_zasa
 
 1. Wpisz numer zmiany i godziny z grafiku. Godziny przypadające w porze nocnej (22:00–06:00) oznacz osobno jako „pora nocna”.
 2. W okresie rozliczeniowym sprawdzaj narastająco liczbę godzin; nadgodziny powstają po przekroczeniu wymiaru w przyjętym okresie rozliczeniowym (art. 151 § 2 i art. 151² Kodeksu pracy).
-3. Za pracę w niedzielę i święto wpisz kod WN/WŚ i kontroluj udzielenie dnia wolnego w tym samym okresie rozliczeniowym lub w innym terminie uzgodnionym z pracownikiem (art. 151³ Kodeksu pracy).
+3. Za pracę w niedzielę i święto wpisz kod WN/WŚ i kontroluj udzielenie dnia wolnego w tym samym okresie rozliczeniowym lub w innym terminie uzgodnionym z pracownikiem (art. 151¹¹ Kodeksu pracy; dawniej art. 151³ — zmiana numeracji od 5.11.2026 r.).
 
 ### 5.4 Poprawki
 
@@ -170,7 +170,7 @@ Przed zamknięciem miesiąca sprawdź:
 
 | Pełna nazwa aktu | Przepis | Oficjalne źródło | Data weryfikacji | Status |
 | --- | --- | --- | --- | --- |
-| Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy | art. 94 pkt 9b, art. 149 § 1, art. 151, art. 151², art. 151³, art. 151⁵, art. 151⁸ | [ISAP — Dz.U. 1974 nr 24 poz. 141](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141) (tekst jednolity: Dz.U. z 2026 r. poz. 1245) | 2026-11-25 | DO WERYFIKACJI |
+| Ustawa z dnia 26 czerwca 1974 r. – Kodeks pracy | art. 94 pkt 9b, art. 149 § 1, art. 151, art. 151², art. 151³ (dzień wolny z rozkładu), art. 151⁹–151¹² (niedziele i święta od 5.11.2026), art. 151⁵, art. 151⁸ | [ISAP — Dz.U. 1974 nr 24 poz. 141](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141) (tekst jednolity: Dz.U. z 2026 r. poz. 1245) | 2026-11-25 | DO WERYFIKACJI |
 | Rozporządzenie Ministra Rodziny, Pracy i Polityki Społecznej z dnia 10 grudnia 2018 r. w sprawie dokumentacji pracowniczej | § 6 pkt 1 lit. a–h | [ISAP — Dz.U. 2018 poz. 2369](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002369) | 2026-11-25 | DO WERYFIKACJI |
 | Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych | art. 42 ust. 1 i ust. 4 | [ISAP — Dz.U. 2008 nr 223 poz. 1458](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231458) (tekst jednolity: Dz.U. z 2024 r. poz. 1135) | 2026-11-25 | DO WERYFIKACJI |
 | Dokumentacja pracownicza — informacja urzędowa (okresy przechowywania) | art. 94 pkt 9b Kodeksu pracy | [gov.pl — akta osobowe](https://www.gov.pl/web/rodzina/akta-osobowe) | 2026-11-25 | DO WERYFIKACJI |

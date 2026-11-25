@@ -1,5 +1,7 @@
 # Oświadczenie pracownika o zapoznaniu się z przepisami wewnątrzzakładowymi i oceną ryzyka zawodowego
 
+*Status: ROBOCZY / DO WERYFIKACJI · Data weryfikacji: 2026-11-25*
+
 ---
 
 **Imię i nazwisko pracownika:** `[................................................]`  
