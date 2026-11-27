@@ -14,7 +14,7 @@
 ### Rozdział II. Wymagania kwalifikacyjne i tabela zaszeregowania
 - Wymagania kwalifikacyjne (wykształcenie, staż pracy) dla poszczególnych stanowisk — nie mogą być niższe niż określone w Rozporządzeniu RM.
 - **Załącznik nr 1:** Tabela maksymalnych stawek miesięcznego wynagrodzenia zasadniczego w poszczególnych kategoriach zaszeregowania (I–XX) — minimalne stawki wynikają wprost z Rozporządzenia RM.
-- **Załącznik nr 2:** Wykaz stanowisk w ZGK (kierownicze urzędnicze, urzędnicze, pomocnicze i obsługi) wraz z przypisanymi kategoriami zaszeregowania i wymaganiami kwalifikacyjnymi.
+- **Załącznik nr 2:** Wykaz stanowisk w ZGKiM w Orzeszu (kierownicze urzędnicze, urzędnicze, pomocnicze i obsługi — obejmujący działy: administracja i kadry, inwestycje, gospodarka mieszkaniowa i lokale użytkowe, oczyszczalnia ścieków i kanalizacja, oczyszczanie miasta i zieleń, PSZOK, obiekty sportowe i place zabaw, cmentarz komunalny, targowisko i Punkt Przesiadkowy) wraz z przypisanymi kategoriami zaszeregowania i wymaganiami kwalifikacyjnymi.
 
 ### Rozdział III. Składniki wynagrodzenia i dodatki
 1. **Wynagrodzenie zasadnicze** (ustalane kwotowo w umowie o pracę).

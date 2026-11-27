@@ -5,13 +5,13 @@
 
 ---
 
-**Dyrektor/Kierownik `[Nazwa Zakładu Gospodarki Komunalnej]`**  
+**Dyrektor/Kierownik Zakładu Gospodarki Komunalnej i Mieszkaniowej w Orzeszu**  
 ogłasza otwarty i konkurencyjny nabór na wolne stanowisko urzędnicze:  
-**`[np. Specjalista ds. kadr i płac / Referent ds. rozliczeń wody i ścieków]`**  
+**`[np. Specjalista ds. kadr i płac / Inspektor ds. gospodarki mieszkaniowej / Inspektor ds. inwestycji i zamówień publicznych]`**  
 Wymiar czasu pracy: `[np. pełny etat]`
 
 ## 1. Nazwa i adres jednostki
-`[Nazwa ZGK]`, `[ulica, kod pocztowy, miejscowość]`
+`Zakład Gospodarki Komunalnej i Mieszkaniowej w Orzeszu`, `[ulica, 43-180 Orzesze]`
 
 ## 2. Wymagania niezbędne (formalne)
 Kandydatem może być osoba, która:

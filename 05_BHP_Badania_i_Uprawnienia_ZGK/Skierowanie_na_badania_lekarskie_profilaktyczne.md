@@ -22,25 +22,27 @@ Działając na podstawie art. 229 § 4a Kodeksu pracy, kieruję na badania lekar
 
 ---
 
-### Opis warunków pracy z uwzględnieniem czynników niebezpiecznych, szkodliwych i uciążliwych (typowe dla ZGK — zaznaczyć właściwe):
+### Opis warunków pracy z uwzględnieniem czynników niebezpiecznych, szkodliwych i uciążliwych (ZGKiM w Orzeszu — zaznaczyć właściwe):
 
 1. **Czynniki fizyczne:**
-   - `[ ]` Hałas (np. praca przy maszynach, kosach spalinowych, piłach, pojazdach specjalistycznych)
-   - `[ ]` Drgania mechaniczne (wibracja miejscowa/ogólna – młoty, zagęszczarki, pojazdy)
-   - `[ ]` Zmienne warunki atmosferyczne / mikroklimat zimny i gorący (praca w terenie)
+   - `[ ]` Hałas (np. kosy i piły spalinowe przy zieleni miejskiej, urządzenia oczyszczalni ścieków, zamiatarki, pojazdy)
+   - `[ ]` Drgania mechaniczne (wibracja miejscowa/ogólna – kosy, pilarki, młoty, zagęszczarki, ciągniki)
+   - `[ ]` Zmienne warunki atmosferyczne / mikroklimat zimny i gorący (praca w terenie: oczyszczanie miasta, zieleń, cmentarz, targowisko, Punkt Przesiadkowy)
 2. **Pyły:**
-   - `[ ]` Pyły przemysłowe / mineralne / drewna (np. cięcie asfaltu, betonu, prace porządkowe)
+   - `[ ]` Pyły przemysłowe / mineralne / drewna (np. cięcie asfaltu/betonu, naprawy placów zabaw, prace porządkowe)
 3. **Czynniki chemiczne:**
-   - `[ ]` Środki dezynfekcyjne (np. podchloryn sodu, związki chloru na stacjach uzdatniania wody)
-   - `[ ]` Spaliny, oleje, smary, paliwa, środki ochrony roślin (utrzymanie zieleni)
+   - `[ ]` Gazy i opary na oczyszczalni ścieków / w kanalizacji (siarkowodór H₂S, metan, amoniak), środki dezynfekcyjne (chlor/podchloryn sodu, koagulanty)
+   - `[ ]` Środki ochrony roślin (utrzymanie zieleni miejskiej), odpady niebezpieczne (PSZOK), spaliny, oleje, smary, środki czyszczące
 4. **Czynniki biologiczne:**
-   - `[ ]` Kontakt ze ściekami komunalnymi, odpadami komunalnymi, glebą (ryzyko zakażeń tężcem, WZW A/B — np. pracownicy kanalizacji, oczyszczalni ścieków, wywozu odpadów)
+   - `[ ]` Kontakt ze ściekami komunalnymi, osadami, odpadami (PSZOK), glebą (cmentarz, wykopy) — ryzyko zakażeń WZW A/B, tężec
+   - `[ ]` Narażenie na ukąszenia kleszczy (borelioza, KZM) — utrzymanie zieleni miejskiej, cmentarza, placów zabaw
 5. **Inne czynniki, w tym niebezpieczne i uciążliwe:**
-   - `[ ]` Praca na wysokości (powyżej 1 m / powyżej 3 m — np. przycinanie drzew, studnie, zbiorniki)
-   - `[ ]` Praca w wykopach i przestrzeniach zamkniętych (studzienki kanalizacyjne, komory)
+   - `[ ]` Praca na wysokości (powyżej 1 m / powyżej 3 m — przycinanie drzew, studnie, zbiorniki oczyszczalni, dachy zasobu mieszkaniowego)
+   - `[ ]` Praca w wykopach i przestrzeniach zamkniętych (studzienki kanalizacyjne, komory oczyszczalni, prace ziemne na cmentarzu)
    - `[ ]` Kierowanie pojazdami służbowymi w ramach obowiązków (kat. `[B / C / CE / T]`)
-   - `[ ]` Obsługa maszyn w ruchu / urządzeń podlegających UDT (koparko-ładowarka, żuraw HDS, podest ruchomy)
-   - `[ ]` Praca przy monitorze ekranowym powyżej 4 godzin dziennie *(stanowiska biurowe)*
+   - `[ ]` Obsługa maszyn w ruchu / urządzeń podlegających UDT (wózek/ładowarka na PSZOK, koparko-ładowarka, żuraw HDS, podest ruchomy)
+   - `[ ]` Praca zmianowa / w porze nocnej / w niedziele i święta (oczyszczalnia ścieków, obiekty sportowe, targowisko, PSZOK, Punkt Przesiadkowy, akcja zima)
+   - `[ ]` Praca przy monitorze ekranowym powyżej 4 godzin dziennie *(stanowiska biurowe, inwestycje, gospodarka mieszkaniowa)*
    - `[ ]` Ręczne prace transportowe / wymuszona pozycja ciała
 
 ---

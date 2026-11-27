@@ -8,8 +8,8 @@
 
 Zawarta w dniu `[data]` w `[miejscowość]` pomiędzy:
 
-**[Nazwa Zakładu Gospodarki Komunalnej]** z siedzibą w `[adres]`, NIP: `[...]`, REGON: `[...]`,  
-reprezentowanym przez `[Imię i nazwisko – Dyrektor/Kierownik ZGK]`,  
+**[Zakład Gospodarki Komunalnej i Mieszkaniowej w Orzeszu]** z siedzibą w Orzeszu (`[adres]`), NIP: `[...]`, REGON: `[...]`,  
+reprezentowanym przez `[Imię i nazwisko – Dyrektor/Kierownik ZGKiM]`,  
 zwanym dalej **Pracodawcą**,
 
 a
@@ -27,8 +27,8 @@ Strony zawierają umowę o pracę na:
 - `[ ]` **czas nieokreślony** od dnia `[data]`.
 
 ## § 2. Warunki pracy i płacy
-1. **Rodzaj pracy (stanowisko):** `[np. Kierowca samochodu ciężarowego / Konserwator sieci wodociągowo-kanalizacyjnej / Specjalista ds. kadr]`
-2. **Miejsce wykonywania pracy:** `[np. siedziba Zakładu Gospodarki Komunalnej w ... oraz teren gminy/miasta ...]`
+1. **Rodzaj pracy (stanowisko):** `[np. Operator oczyszczalni ścieków / Pracownik PSZOK / Konserwator obiektów sportowych i placów zabaw / Inspektor ds. gospodarki mieszkaniowej / Specjalista ds. kadr]`
+2. **Miejsce wykonywania pracy:** `[np. siedziba ZGKiM w Orzeszu oraz teren Gminy Orzesze (m.in. oczyszczalnia ścieków, PSZOK, cmentarz komunalny, obiekty sportowe, zasób mieszkaniowy)]`
 3. **Wymiar czasu pracy:** `[np. pełny etat / 1/2 etatu]`
 4. **Dzień rozpoczęcia pracy:** `[data]`
 5. **Wynagrodzenie za pracę:**

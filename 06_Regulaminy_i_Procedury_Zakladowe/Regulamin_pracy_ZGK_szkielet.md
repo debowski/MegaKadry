@@ -21,11 +21,13 @@
 ### Rozdział III. Organizacja i porządek pracy, monitoring oraz kontrola trzeźwości
 - Sposób potwierdzania przybycia i obecności w pracy (lista obecności / system RCP).
 - Zasady opuszczania miejsca pracy w godzinach pracy (książka wyjść prywatnych i służbowych).
-- **Monitoring wizyjny** (art. 22² KP – teren bazy ZGK, PSZOK, ujęcia wody, oczyszczalnia) oraz **monitoring GPS** pojazdów służbowych (art. 22³ KP – cel, zakres, okres przechowywania nagrań/danych, oznaczenie stref monitorowanych).
-- **Kontrola trzeźwości** oraz kontrola na obecność środków działających podobnie do alkoholu (art. 22¹c–22¹f KP — wskazanie grup pracowników objętych kontrolą prewencyjną, np. kierowcy, operatorzy maszyn, pracownicy terenowi wod-kan; sposób i częstotliwość kontroli; używane urządzenie; zasady niedopuszczenia do pracy).
+- **Monitoring wizyjny** (art. 22² KP – teren bazy ZGKiM, PSZOK, oczyszczalnia ścieków, obiekty sportowe, Punkt Przesiadkowy, targowisko miejskie, place zabaw) oraz **monitoring GPS** pojazdów służbowych (art. 22³ KP – cel, zakres, okres przechowywania nagrań/danych, oznaczenie stref monitorowanych).
+- **Kontrola trzeźwości** oraz kontrola na obecność środków działających podobnie do alkoholu (art. 22¹c–22¹f KP — wskazanie grup pracowników objętych kontrolą prewencyjną, np. kierowcy, operatorzy maszyn/ciągników/ładowarek, pracownicy oczyszczalni ścieków i kanalizacji, pilarze, obsługa PSZOK; sposób i częstotliwość kontroli; używane urządzenie; zasady niedopuszczenia do pracy).
 
 ### Rozdział IV. Systemy i rozkłady czasu pracy
-- Przyjęte systemy czasu pracy (np. podstawowy dla administracji, równoważny lub zmianowy dla brygad wod-kan/oczyszczalni/wywozu odpadów).
+- Przyjęte systemy czasu pracy:
+  - **podstawowy** (np. administracja, dział inwestycji, gospodarka mieszkaniowa),
+  - **równoważny lub zmianowy / praca w niedziele i święta** (art. 151¹⁰ KP — np. oczyszczalnia ścieków w ruchu ciągłym, obiekty sportowe, targowisko miejskie w dni targowe, PSZOK w soboty, Punkt Przesiadkowy, akcja zima przy oczyszczaniu miasta).
 - Okresy rozliczeniowe (np. 1-miesięczny lub 3-miesięczny).
 - Godziny pracy poszczególnych działów, przerwy w pracy, pora nocna (8 godzin między 21:00 a 7:00, np. 22:00–06:00).
 - Zasady zlecania i rozliczania pracy w godzinach nadliczbowych oraz pełnienia dyżurów domowych (pogotowie wod-kan, akcja zima).

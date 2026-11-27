@@ -9,7 +9,7 @@
 
 ## ŚLUBOWANIE
 
-Ja, **`[Imię i nazwisko]`**, zatrudniony/a na stanowisku urzędniczym **`[nazwa stanowiska]`** w `[Nazwa Zakładu Gospodarki Komunalnej]`, składam wobec Dyrektora/Kierownika jednostki następujące ślubowanie:
+Ja, **`[Imię i nazwisko]`**, zatrudniony/a na stanowisku urzędniczym **`[nazwa stanowiska]`** w `Zakładzie Gospodarki Komunalnej i Mieszkaniowej w Orzeszu`, składam wobec Dyrektora/Kierownika jednostki następujące ślubowanie:
 
 > **„Ślubuję uroczyście, że na zajmowanym stanowisku będę służyć państwu polskiemu i wspólnocie samorządowej, przestrzegać porządku prawnego i wykonywać sumiennie powierzone mi zadania.”**
 

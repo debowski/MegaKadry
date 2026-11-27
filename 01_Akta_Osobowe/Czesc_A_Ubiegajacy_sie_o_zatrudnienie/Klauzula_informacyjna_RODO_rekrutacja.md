@@ -5,7 +5,7 @@
 ---
 
 1. **Administrator danych osobowych:**  
-   Administratorem Pani/Pana danych osobowych jest **[Nazwa Zakładu Gospodarki Komunalnej]** z siedzibą w `[adres]`, reprezentowany przez Dyrektora/Kierownika `[Imię i nazwisko]`, zwany dalej „Administratorem”.
+   Administratorem Pani/Pana danych osobowych jest **Zakład Gospodarki Komunalnej i Mieszkaniowej w Orzeszu** z siedzibą w Orzeszu (`[adres]`), reprezentowany przez Dyrektora/Kierownika `[Imię i nazwisko]`, zwany dalej „Administratorem”.
 2. **Inspektor Ochrony Danych (IOD):**  
    Kontakt z Inspektorem Ochrony Danych możliwy jest pod adresem e-mail: `[iod@zgk.pl]` lub pisemnie na adres siedziby Administratora.
 3. **Cel i podstawa prawna przetwarzania danych:**  

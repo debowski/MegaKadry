@@ -4,10 +4,10 @@
 
 ---
 
-**Pracodawca:** `[Nazwa Zakładu Gospodarki Komunalnej]`  
+**Pracodawca:** `Zakład Gospodarki Komunalnej i Mieszkaniowej w Orzeszu`  
 **Imię i nazwisko pracownika:** `[................................................]`  
 **Stanowisko służbowe:** `[................................................]`  
-**Komórka organizacyjna / Dział:** `[np. Dział Wodociągów i Kanalizacji / Dział Oczyszczania / Dział Kadr]`  
+**Komórka organizacyjna / Dział:** `[np. Dział Oczyszczalni Ścieków i Kanalizacji / Dział Gospodarki Mieszkaniowej / Dział Zieleni, Cmentarza i Oczyszczania / PSZOK / Dział Inwestycji / Dział Kadr]`  
 **Bezpośredni przełożony:** `[................................................]`
 
 ---
